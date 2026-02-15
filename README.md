@@ -7088,8 +7088,3 @@ You are now thinking like someone who can design backend systems, not just write
 
 When ready, say:
 
-👉 next
-
-
-
-
