@@ -84,12 +84,6 @@ In ice cream shop example, who is backend?
 
 What happens if backend is missing?
 
-
-
-
-
-
-
 🧩 Lesson 2: What is Django?
 
 https://miro.medium.com/v2/resize%3Afit%3A1400/0%2Ar7ALulxaXPSboehX.jpg
