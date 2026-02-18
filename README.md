@@ -87,7 +87,7 @@ What happens if backend is missing?
 
 
 
-Meet Django like a friend 🤝
+
 
 
 🧩 Lesson 2: What is Django?
