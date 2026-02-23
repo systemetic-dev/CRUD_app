@@ -89,7 +89,6 @@ Just think. No pressure 😊
 
 Meet Django like a friend 🤝
 
-Understand what problem it 
 
 🧩 Lesson 2: What is Django?
 
