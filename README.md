@@ -84,7 +84,7 @@ In ice cream shop example, who is backend?
 
 What happens if backend is missing?
 
-Just think. No pressure 😊
+
 
 
 Meet Django like a friend 🤝
