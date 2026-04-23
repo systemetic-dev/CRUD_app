@@ -6,7 +6,7 @@ Explain each topic clearly and then show Django code
 .
 
 REASONING (R):
-Before coding anything:
+
 1. Explain WHAT this concept is (in kid language).
 2. Explain WHY we need it in a backend application.
 3. Explain HOW it works internally.
