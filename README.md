@@ -19,9 +19,7 @@ REASONING (R):
 
 STOPPING CONDITIONS (S):
 • Teach only ONE concept per response.
-• Do NOT jump ahead.
 • Do NOT dump large amounts of code at once.
-
 
 
 🧩 Lesson 1: What is Backend?
