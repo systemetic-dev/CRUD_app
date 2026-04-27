@@ -1,5 +1,5 @@
 # Backend Development using Django from absolute zero to advanced level
-including real-world concepts and 
+
 
 REASONING (R):
 1. Explain WHAT this concept is.
