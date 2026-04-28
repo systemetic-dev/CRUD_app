@@ -10,12 +10,6 @@ REASONING (R):
 6. After code, explain each line very simply.
 7. Build new concepts only on already learned concepts.
 
-
-
-STOPP
-• Do NOT dump large amounts of code at once.
-
-
 🧩 Lesson 1: What is Backend?
 1. 🌱 What is this concept?
 Backend is the brain of a website or app.
