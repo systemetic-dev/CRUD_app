@@ -8,7 +8,7 @@ REASONING (R):
 4. Break the concept into tiny building blocks.
 5. Only then write the Django code.
 6. After code, explain each line very simply.
-7. Build new concepts only on already learned concepts.
+
 
 🧩 Lesson 1: What is Backend?
 1. 🌱 What is this concept?
