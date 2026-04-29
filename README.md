@@ -6,7 +6,7 @@ REASONING (R):
 2. Explain WHY we need it in a backend application.
 3. Explain HOW it works internally.
 4. Break the concept into tiny building blocks.
-5. Only then write the Django code.
+
 
 
 🧩 Lesson 1: What is Backend?
