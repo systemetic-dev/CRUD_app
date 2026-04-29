@@ -1,6 +1,6 @@
 ## Backend Development using Django from absolute zero to advanced level
 
-
+---
 REASONING (R):
 1. Explain WHAT this concept is.
 2. Explain WHY we need it in a backend application.
