@@ -4,7 +4,6 @@
 REASONING (R):
 1. Explain WHAT this concept is.
 2. Explain WHY we need it in a backend application.
-3. Explain HOW it works internally.
 
 
 
