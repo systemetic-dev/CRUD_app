@@ -1,12 +1,5 @@
 ## Backend Development using Django from absolute zero to advanced level
 
-##---
-REASONING (R):
-1. Explain WHAT this concept is.
-
-
-
-
 🧩 Lesson 1: What is Backend?
 1. 🌱 What is this concept?
 Backend is the brain of a website or app.
