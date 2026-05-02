@@ -134,11 +134,6 @@ Meet Django like a friend 🤝
 
 Understand what problem it solves
 
-See how Django fits into backend world
-
-When you’re ready, just say:
-
-👉 next
 
 
 Next
