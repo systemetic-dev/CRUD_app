@@ -125,9 +125,7 @@ What happens if backend is missing?
 Just think. No pressure 😊
 
 8. 🚀 What we will learn next
-👉 Next lesson:
-“What is Django and why we use Django for backend?”
-
+👉 Next 
 We will:
 
 Meet Django like a friend 🤝
