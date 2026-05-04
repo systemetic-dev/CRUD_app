@@ -124,9 +124,6 @@ What happens if backend is missing?
 
 Just think. No pressure 😊
 
-8. 🚀 What we will learn next
-👉 Next 
-We will:
 
 Meet Django like a friend 🤝
 
