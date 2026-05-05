@@ -1,4 +1,4 @@
-## Backend Development using Django from absolute 
+
 
 🧩 Lesson 1: What is Backend?
 1. What is this concept?
