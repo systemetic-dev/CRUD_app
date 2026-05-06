@@ -5,7 +5,7 @@
 Backend is the brain of a website or app.
 
 You cannot see it.
-But it does all the thinking.
+
 
 Frontend = face
 Backend = brain 🧠
