@@ -4,7 +4,6 @@
 1. What is this concept?
 Backend is the brain of a website or app.
 
-You cannot see it.
 
 
 Frontend = face
