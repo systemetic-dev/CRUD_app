@@ -1,11 +1,8 @@
 Lesson 1: What is Backend?
-1. What is this concept?
 Backend is the brain of a website or app.
 
-
-
 Frontend = face
-Backend = brain 🧠
+Backend = brain 
 
 When you press a button,
 backend decides what should happen next.
