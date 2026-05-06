@@ -3,10 +3,6 @@ Backend is the brain of a website or app.
 
 Frontend = face
 Backend = brain 
-
-When you press a button,
-backend decides what should happen next.
-
 2. 🎯 Why do we need it in backend?
 Imagine a website without backend:
 
@@ -14,7 +10,7 @@ You type username → nothing saves
 
 You login → nothing checks
 
-You order food → order disappears 😵
+You order food → order disappears
 
 So we need backend to:
 
