@@ -1,6 +1,4 @@
-
-
-🧩 Lesson 1: What is Backend?
+Lesson 1: What is Backend?
 1. What is this concept?
 Backend is the brain of a website or app.
 
