@@ -1,7 +1,6 @@
 Lesson 1: What is Backend?
 Backend is the brain of a website or app.
 
-
 2. 🎯 Why do we need it in backend?
 Imagine a website without backend:
 
@@ -22,9 +21,6 @@ Talk to database
 Protect data
 
 Do real work
-
-👉 Frontend shows things
-👉 Backend does things
 
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
