@@ -36,7 +36,6 @@ Talk to storage – save or read data
 Reply – send result back
 
 That’s it.
-Backend = listener +
 
 4. 🧸 Real-life example
 🍦 Ice Cream Shop Story
