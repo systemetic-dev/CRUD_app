@@ -20,8 +20,6 @@ Talk to database
 
 Protect data
 
-Do real work
-
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
 
