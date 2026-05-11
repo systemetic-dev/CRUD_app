@@ -16,9 +16,7 @@ Remember things
 
 Make decisions
 
-Talk to database
 
-Protect data
 
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
