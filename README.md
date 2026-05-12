@@ -14,10 +14,6 @@ So we need backend to:
 
 Remember things
 
-Make decisions
-
-
-
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
 
