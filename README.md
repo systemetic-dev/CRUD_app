@@ -10,8 +10,6 @@ You login → nothing checks
 
 You order food → order disappears
 
-So we need backend to:
-
 
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
