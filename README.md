@@ -102,12 +102,6 @@ Just think. No pressure 😊
 Meet Django like a friend 🤝
 
 Understand what problem it solves
-
-
-
-Next
-
-Awesome. Let’s keep going 🌟
 Lesson 2. One idea only. Slow and clear.
 
 🧩 Lesson 2: What is Django?
