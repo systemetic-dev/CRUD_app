@@ -6,7 +6,6 @@ Backend is the brain of a website or app.
 Imagine a website without backend:
 
 You type username → nothing saves
-
 You login → nothing checks
 
 You order food → order disappears
