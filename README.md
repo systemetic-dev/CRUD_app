@@ -1,4 +1,4 @@
-Lesson 1: 
+
 What is Backend?
 Backend is the brain of a website or app.
 
