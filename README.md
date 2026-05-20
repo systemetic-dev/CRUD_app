@@ -1,4 +1,3 @@
-
 What is Backend?
 Backend is the brain of a website or app.
 
@@ -9,7 +8,6 @@ You type username → nothing saves
 You login → nothing checks
 
 You order food → order disappears
-
 
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
