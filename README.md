@@ -1,5 +1,4 @@
-What is Backend?
-Backend is the brain of a website or app.
+
 
 2. 🎯 Why do we need it in backend?
 Imagine a website without backend:
