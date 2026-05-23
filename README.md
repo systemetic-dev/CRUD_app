@@ -20,9 +20,6 @@ Check rules – allowed or not?
 Talk to storage – save or read data
 
 Reply – send result back
-
-That’s it.
-
 4. 🧸 Real-life example
 🍦 Ice Cream Shop Story
 You go to an ice cream shop.
