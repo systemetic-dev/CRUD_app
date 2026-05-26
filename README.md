@@ -2,9 +2,7 @@
 Imagine a website without backend:
 
 You type username → nothing saves
-You login → nothing checks
-
-You order food → order disappears
+You login → nothing chec
 
 3. 🧱 Small building blocks (simple ideas)
 Backend is made of small jobs:
