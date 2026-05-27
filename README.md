@@ -3,7 +3,8 @@ Imagine a website without backend:
 
 You type username → nothing saves
 You login → nothing 
-3. 🧱 Small building blocks (simple ideas)
+
+3.  Small building blocks (simple ideas)
 Backend is made of small jobs:
 
 Listen – someone sent a request
