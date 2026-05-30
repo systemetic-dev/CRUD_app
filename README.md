@@ -1,6 +1,5 @@
 Why do we need it in backend?
 Imagine a website without backend:
-
 You type username → nothing saves
 You login → nothing 
 
