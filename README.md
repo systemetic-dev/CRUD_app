@@ -2,9 +2,7 @@ Why do we need it in backend?
 Imagine a website without backend.
 3.  Small building blocks (simple ideas)
 Backend is made of small jobs:
-
 Listen – someone sent a request
-
 Think – what does this user want?
 
 Check rules – allowed or not?
