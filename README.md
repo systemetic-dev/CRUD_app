@@ -1,14 +1,12 @@
 Why do we need it in backend?
 Imagine a website without backend.
-3.  Small building blocks (simple ideas)
+3 Small building blocks (simple ideas)
 Backend is made of small jobs:
 Listen – someone sent a request
 Think – what does this user want?
 
 Check rules – allowed or not?
-
 Talk to storage – save or read data
-
 Reply – send result back
 4. 🧸 Real-life example
 🍦 Ice Cream Shop Story
