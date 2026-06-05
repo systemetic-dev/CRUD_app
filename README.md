@@ -1,5 +1,4 @@
-Why do we need it in backend?
-Imagine a website 
+Why do we need it in backend? 
 3 Small building blocks (simple ideas)
 Backend is made of small jobs:
 Listen – someone sent a request
