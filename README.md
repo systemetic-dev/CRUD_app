@@ -1,5 +1,5 @@
 Why do we need it in backend? 
-3 Small building blocks
+
 Backend is made of small jobs:
 Listen – someone sent a request
 Think – what does this user want?
