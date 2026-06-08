@@ -2,7 +2,7 @@ Why do we need it in backend?
 
 Backend is made of small jobs:
 Listen – someone sent a request
-Think – what does this user want?
+
 
 Check rules – allowed or not?
 Talk to storage – save or read data
