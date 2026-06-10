@@ -1,5 +1,5 @@
 Why do we need it in backend? 
-Backend is made of small jobs
+
 Check rules – allowed or not?
 Talk to storage – save or read data
 Reply – send result back
