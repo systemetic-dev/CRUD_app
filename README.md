@@ -1,6 +1,4 @@
 Why do we need it in backend? 
-
-Check rules – allowed or not?
 Talk to storage – save or read data
 Reply – send result back
 4. 🧸 Real-life example
