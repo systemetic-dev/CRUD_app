@@ -1,5 +1,5 @@
 Why do we need it in backend? 
-Talk to storage – save or read data
+
 Reply – send result back
 4. 🧸 Real-life example
 🍦 Ice Cream Shop Story
