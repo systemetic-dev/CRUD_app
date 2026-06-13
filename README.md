@@ -1,6 +1,6 @@
 Why do we need it in backend? 
 
-Reply – send result back
+
 4. 🧸 Real-life example
 🍦 Ice Cream Shop Story
 You go to an ice cream shop.
