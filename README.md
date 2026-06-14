@@ -1,7 +1,7 @@
 Why do we need it in backend? 
 
 
-4. 🧸 Real-life example
+
 🍦 Ice Cream Shop Story
 You go to an ice cream shop.
 
