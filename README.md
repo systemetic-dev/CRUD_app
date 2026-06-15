@@ -1,8 +1,6 @@
 Why do we need it in backend? 
 
-
-
-🍦 Ice Cream Shop Story
+Ice Cream Shop Story
 You go to an ice cream shop.
 
 You → customer
