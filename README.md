@@ -1,7 +1,5 @@
 Why do we need it in backend? 
 
-You go to an ice cream shop.
-
 You → customer
 
 Menu board → frontend
