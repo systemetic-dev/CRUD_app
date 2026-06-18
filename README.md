@@ -1,6 +1,4 @@
-Why do we need it in backend? 
-
-You → customer
+Why do we need it in backend
 
 Menu board → frontend
 
