@@ -1,5 +1,3 @@
-Why do we need it in backend
-
 Menu board → frontend
 
 Shop worker inside → backend
