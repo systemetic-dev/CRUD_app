@@ -1,4 +1,4 @@
-Menu board → frontend
+
 
 Shop worker inside → backend
 
