@@ -1,7 +1,3 @@
-
-
-Shop worker inside → backend
-
 Freezer room → database
 
 Steps:
