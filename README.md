@@ -1,5 +1,3 @@
-Freezer room → database
-
 Steps:
 
 You say: “I want chocolate ice cream”
