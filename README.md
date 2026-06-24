@@ -1,5 +1,3 @@
-You say: “I want chocolate ice cream”
-
 Worker hears you (request)
 
 Worker checks freezer
