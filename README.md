@@ -1,4 +1,4 @@
-Worker hears you (request)
+
 
 Worker checks freezer
 
