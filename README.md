@@ -1,7 +1,4 @@
 
-
-Worker checks freezer
-
 Worker takes ice cream
 
 Worker gives it to you (response)
