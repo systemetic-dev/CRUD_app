@@ -1,6 +1,4 @@
 
-Worker takes ice cream
-
 Worker gives it to you (response)
 
 You never see the freezer work.
