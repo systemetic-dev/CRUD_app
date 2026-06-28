@@ -1,6 +1,3 @@
-
-Worker gives it to you (response)
-
 You never see the freezer work.
 You only see the ice cream 🍦
 
