@@ -1,6 +1,3 @@
-You never see the freezer work.
-You only see the ice cream 🍦
-
 That hidden work = backend
 
 5. 🧠 Behind-the-scenes explanation
