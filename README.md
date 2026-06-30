@@ -1,6 +1,3 @@
-🧠 Behind-the-scenes explanation
-When you open a website:
-
 Browser sends a request
 
 Backend program receives it
