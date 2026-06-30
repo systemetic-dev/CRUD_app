@@ -1,6 +1,4 @@
-That hidden work = backend
-
-5. 🧠 Behind-the-scenes explanation
+🧠 Behind-the-scenes explanation
 When you open a website:
 
 Browser sends a request
