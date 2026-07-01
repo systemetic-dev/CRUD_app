@@ -1,5 +1,3 @@
-Browser sends a request
-
 Backend program receives it
 
 Backend runs logic (rules)
