@@ -1,5 +1,3 @@
-Backend runs logic (rules)
-
 Backend talks to database
 
 Backend sends response
