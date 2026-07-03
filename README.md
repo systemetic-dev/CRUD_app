@@ -16,10 +16,6 @@ Because Django is a tool.
 First you must understand what backend is,
 not how to write it.
 
-Next lesson we will meet Django properly.
-
-(You don’t give a kid a car before teaching roads 🚗)
-
 7. 🧪 Very small practice task (no solution)
 Think and answer in your own words:
 
