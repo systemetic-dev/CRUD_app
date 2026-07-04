@@ -1,5 +1,3 @@
-Backend talks to database
-
 Backend sends response
 
 All this happens in milliseconds ⚡
