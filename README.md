@@ -1,5 +1,3 @@
-All this happens in milliseconds ⚡
-
 Backend lives on a server computer
 Server runs 24/7, never sleeps 😴❌
 
