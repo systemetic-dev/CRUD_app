@@ -1,10 +1,3 @@
-
-
-6. 💻 Django code implementation
-⛔ No Django code yet
-
-Why?
-
 Because Django is a tool.
 First you must understand what backend is,
 not how to write it.
