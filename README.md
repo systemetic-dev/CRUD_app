@@ -1,5 +1,4 @@
-Backend lives on a server computer
-Server runs 24/7, never sleeps 😴❌
+
 
 6. 💻 Django code implementation
 ⛔ No Django code yet
