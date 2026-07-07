@@ -2,7 +2,7 @@ Because Django is a tool.
 First you must understand what backend is,
 not how to write it.
 
-7. 🧪 Very small practice task (no solution)
+7Very small practice task (no solution)
 Think and answer in your own words:
 
 Is backend visible to users?
