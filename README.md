@@ -1,6 +1,4 @@
-Because Django is a tool.
-First you must understand what backend is,
-not how to write it.
+ Django is a tool.
 
 7Very small practice task (no solution)
 Think and answer in your own words:
