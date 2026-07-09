@@ -1,6 +1,4 @@
- Django is a tool.
-
-7Very small practice task (no solution)
+Very small practice task (no solution)
 Think and answer in your own words:
 
 Is backend visible to users?
