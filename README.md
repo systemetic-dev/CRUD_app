@@ -1,8 +1,5 @@
 Very small practice task (no solution)
 Think and answer in your own words:
-
-Is backend visible to users?
-
 In ice cream shop example, who is backend?
 
 What happens if backend is missing?
