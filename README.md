@@ -1,7 +1,3 @@
-Very small practice task (no solution)
-Think and answer in your own words:
-In ice cream shop example, who is backend?
-
 What happens if backend is missing?
 
 🧩 Lesson 2: What is Django?
