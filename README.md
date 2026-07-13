@@ -1,10 +1,4 @@
- Lesson 2: What is Django?
-
-https://miro.medium.com/v2/resize%3Afit%3A1400/0%2Ar7ALulxaXPSboehX.jpg
-
-https://miro.medium.com/v2/resize%3Afit%3A1248/1%2AK-o5Vn65A7PJZTSrlsm2rQ.jpeg
-
-https://substackcdn.com/image/fetch/%24s_%21g3db%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a38175b-11e8-40ae-879c-ab3ce2027089_2008x1252.png
+ What is Django?
 1. 🌱 What is this concept?
 Django is a helper tool for building backend.
 
