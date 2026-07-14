@@ -1,5 +1,4 @@
- What is Django?
-1. 🌱 What is this concept?
+What is this concept?
 Django is a helper tool for building backend.
 
 Think like this 👇
