@@ -1,7 +1,5 @@
 What is this concept?
-Django is a helper tool for building backend.
-
-Think like this 👇
+Django is a helper tool for building backend
 Backend is a job.
 Django is a toolkit to do that job easily.
 
