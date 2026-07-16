@@ -1,7 +1,6 @@
 What is this concept?
 Django is a helper tool for building backend
 Backend is a job.
-Django is a toolkit to do that job easily.
 
 Without Django → you build everything by hand 😵
 With Django → many things are already made for you 🧰
