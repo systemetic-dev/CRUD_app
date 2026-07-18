@@ -1,4 +1,4 @@
-What is this concept?
+
 Django is a helper tool for building backend
 Backend is a job.
 
