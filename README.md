@@ -1,6 +1,3 @@
-
-Django is a helper tool for building backend
-
 Without Django → you build everything by hand 😵
 With Django → many things are already made for you 🧰
 
