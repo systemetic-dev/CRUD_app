@@ -3,7 +3,7 @@ With Django → many things are already made for you 🧰
 
 Django is written in Python.
 
-2. 🎯 Why do we need it in backend?
+
 Imagine building a house 🏠
 
 Without Django:
