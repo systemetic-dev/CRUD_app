@@ -1,4 +1,3 @@
-
 With Django → many things are already made for you 🧰
 
 Django is written in Python.
