@@ -2,9 +2,6 @@ With Django → many things are already made for you 🧰
 
 Django is written in Python.
 
-
-Imagine building a house 🏠
-
 Without Django:
 
 You make bricks yourself
