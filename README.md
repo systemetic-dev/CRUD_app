@@ -4,8 +4,6 @@ Django is written in Python.
 
 Without Django:
 
-You make bricks yourself
-
 You make doors yourself
 
 You make locks yourself
