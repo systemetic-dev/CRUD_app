@@ -10,8 +10,6 @@ You make doors yourself
 
 You make locks yourself
 
-Very slow
-
 Many mistakes
 
 With Django:
