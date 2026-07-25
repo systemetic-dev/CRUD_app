@@ -7,9 +7,6 @@ Without Django:
 You make doors yourself
 
 You make locks yourself
-
-Many mistakes
-
 With Django:
 
 Bricks are ready
