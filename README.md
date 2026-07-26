@@ -11,9 +11,7 @@ With Django:
 
 Bricks are ready
 
-Doors are ready
-
-Locks are strong
+Doors are rea
 
 You focus on your idea
 
