@@ -2,9 +2,7 @@ With Django → many things are already made for you 🧰
 
 Django is written in Python.
 
-Without Django:
-
-You make doors yourself
+Without Django
 
 You make locks yourself
 With Django:
