@@ -5,11 +5,7 @@ Django is written in Python.
 Without Django
 
 You make locks yourself
-With Django:
-
-Bricks are ready
-
-Doors are rea
+With Django
 
 You focus on your idea
 
