@@ -3,9 +3,7 @@ With Django → many things are already made for you 🧰
 Django is written in Python.
 
 You make locks yourself
-With Django
-
-You focus on your idea
+With Djan
 
 Backend needs many boring things:
 
