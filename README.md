@@ -10,9 +10,7 @@ Database connection
 
 URL handling
 
-Django says:
-
-“Don’t worry. I already did that.”
+Django 
 
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
