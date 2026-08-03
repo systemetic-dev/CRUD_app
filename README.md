@@ -10,8 +10,6 @@ Database connection
 
 URL handling
 
-Django 
-
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
 
