@@ -8,8 +8,6 @@ Security
 
 Database connection
 
-URL handling
-
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
 
