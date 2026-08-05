@@ -4,8 +4,6 @@ Backend needs many boring things:
 
 Login system
 
-Security
-
 Database connection
 
 3. 🧱 Small building blocks (simple ideas)
