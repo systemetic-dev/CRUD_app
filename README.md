@@ -4,8 +4,6 @@ Backend needs many boring things:
 
 Login system
 
-Database connection
-
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
 
