@@ -1,9 +1,6 @@
 With Django → many things are already made for you 🧰
 
 Backend needs many boring things:
-
-Login system
-
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
 
