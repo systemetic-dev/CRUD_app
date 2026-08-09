@@ -10,10 +10,7 @@ Brain room – where logic lives
 
 Storage helper – talk to database
 
-Security guard – protect data
-
-All together = Django 🧩
-
+Security guard – 
 4. 🧸 Real-life example
 🏫 School Example
 You want to run a school.
