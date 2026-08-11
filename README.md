@@ -8,9 +8,7 @@ Traffic police – who goes where (URLs)
 
 Brain room – where logic lives
 
-Storage helper – talk to database
-
-Security guard – 
+Storage helper – talk to 
 4. 🧸 Real-life example
 🏫 School Example
 You want to run a school.
