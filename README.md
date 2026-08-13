@@ -6,7 +6,6 @@ Rules book – how requests should work
 
 Traffic police – who goes where (URLs)
 
-Brain room – where logic lives
 
 
 4. 🧸 Real-life example
