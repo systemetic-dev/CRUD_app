@@ -2,9 +2,7 @@
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
 
-Rules book – how requests should work
-
-Traffic police – who goes where (URLs)
+Rules book – how requests should wo
 
 
 
