@@ -2,8 +2,6 @@
 3. 🧱 Small building blocks (simple ideas)
 Django gives us ready-made parts:
 
-Rules book – how requests should wo
-
 
 
 4. 🧸 Real-life example
