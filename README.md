@@ -1,9 +1,5 @@
 
-3. 🧱 Small building blocks (simple ideas)
-Django gives us ready-made parts:
-
-
-
+3. 🧱 Small building blocks 
 4. 🧸 Real-life example
 🏫 School Example
 You want to run a school.
