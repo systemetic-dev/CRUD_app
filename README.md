@@ -1,5 +1,4 @@
 
-4. 🧸 Real-life example
 🏫 School Example
 You want to run a school.
 
