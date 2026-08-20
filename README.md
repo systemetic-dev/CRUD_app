@@ -1,5 +1,4 @@
 
-You want to run a school.
 
 Without Django:
 
