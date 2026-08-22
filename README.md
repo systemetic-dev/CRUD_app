@@ -1,4 +1,3 @@
-You write admission forms
 
 You design report cards
 
