@@ -1,6 +1,3 @@
-
-You design report cards
-
 You manage attendance
 
 Very tiring 😓
