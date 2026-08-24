@@ -1,7 +1,3 @@
-You manage attendance
-
-Very tiring 😓
-
 With Django:
 
 Forms already exist
