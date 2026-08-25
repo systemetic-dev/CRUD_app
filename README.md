@@ -1,5 +1,3 @@
-With Django:
-
 Forms already exist
 
 Records already exist
