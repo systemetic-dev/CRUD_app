@@ -1,6 +1,3 @@
-
-Records already exist
-
 Rules already exist
 
 You just say:
