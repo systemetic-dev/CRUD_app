@@ -1,5 +1,3 @@
-Rules already exist
-
 You just say:
 
 “This is my school’s rule.”
