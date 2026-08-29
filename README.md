@@ -1,5 +1,3 @@
-You just say:
-
 “This is my school’s rule.”
 
 Django handles the rest.
