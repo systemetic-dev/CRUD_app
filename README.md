@@ -1,5 +1,3 @@
-“This is my school’s rule.”
-
 Django handles the rest.
 
 5. 🧠 Behind-the-scenes explanation
