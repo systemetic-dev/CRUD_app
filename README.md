@@ -1,4 +1,3 @@
-Django handles the rest.
 
 5. 🧠 Behind-the-scenes explanation
 When someone opens a website made with Django:
