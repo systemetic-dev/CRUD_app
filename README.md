@@ -1,5 +1,3 @@
-When someone opens a website made with Django:
-
 Browser sends a request
 
 Django receives it
