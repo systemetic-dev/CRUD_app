@@ -1,5 +1,3 @@
-Browser sends a request
-
 Django receives it
 
 Django checks URL rules
