@@ -1,5 +1,3 @@
-Django receives it
-
 Django checks URL rules
 
 Django runs your logic
