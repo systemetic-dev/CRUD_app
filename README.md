@@ -1,5 +1,3 @@
-Django checks URL rules
-
 Django runs your logic
 
 Django talks to database
