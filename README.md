@@ -1,5 +1,3 @@
-Django runs your logic
-
 Django talks to database
 
 Django sends response
