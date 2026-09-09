@@ -1,7 +1,4 @@
 
-Django does NOT show pages directly.
-
-It:
 
 Thinks
 
