@@ -1,7 +1,3 @@
-
-
-Thinks
-
 Decides
 
 Prepares data
