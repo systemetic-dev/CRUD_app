@@ -1,5 +1,3 @@
-Decides
-
 Prepares data
 
 Sends result
