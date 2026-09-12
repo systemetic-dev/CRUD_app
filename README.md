@@ -1,5 +1,3 @@
-Prepares data
-
 Sends result
 
 Frontend shows it later.
