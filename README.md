@@ -1,5 +1,3 @@
-Sends result
-
 Frontend shows it later.
 
 6. 💻 Django code implementation
