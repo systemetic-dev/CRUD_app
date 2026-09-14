@@ -1,4 +1,4 @@
-Frontend shows it later.
+
 
 6. 💻 Django code implementation
 ⛔ Still no code
