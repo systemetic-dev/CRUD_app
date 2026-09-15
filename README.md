@@ -1,8 +1,3 @@
-
-
-6. 💻 Django code implementation
-⛔ Still no code
-
 Why?
 
 Because before coding, you must know:
