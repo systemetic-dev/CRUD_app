@@ -1,6 +1,4 @@
-
-
-Because before coding, you must know:
+you must know:
 
 What Django is
 
