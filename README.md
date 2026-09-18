@@ -1,5 +1,3 @@
-you must know:
-
 What Django is
 
 Why it exists
