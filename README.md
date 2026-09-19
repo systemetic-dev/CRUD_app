@@ -1,10 +1,3 @@
-What Django is
-
-
-
-
-
-
 What boring work does Django save us from?
 
 8. 🚀 What we will learn next
