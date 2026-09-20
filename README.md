@@ -1,7 +1,5 @@
 What Django is
 
-Why it exists
-
 What job it does
 
 Next lesson we will:
