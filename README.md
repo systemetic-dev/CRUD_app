@@ -1,7 +1,4 @@
 What Django is
-
-What job it does
-
 Next lesson we will:
 
 Install Django
