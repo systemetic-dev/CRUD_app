@@ -1,7 +1,5 @@
 What Django is
-Next lesson we will:
-
-Install Django
+Next lesson we 
 
 Create our first Django project
 
