@@ -1,7 +1,7 @@
 What Django is
 
 
-Create our first Django project
+Create our
 
 See real files
 
