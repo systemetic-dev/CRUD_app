@@ -1,8 +1,5 @@
 What Django is
 
-
-Create our
-
 See real files
 
 (First understand the map 🗺️, then start walking)
