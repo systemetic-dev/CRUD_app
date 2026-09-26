@@ -1,7 +1,5 @@
 What Django is
 
-See real files
-
 (First understand the map 🗺️, then start walking)
 
 7. 🧪 Very small practice task (no solution)
