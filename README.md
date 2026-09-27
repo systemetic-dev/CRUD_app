@@ -1,6 +1,6 @@
 What Django is
 
-(First understand the map 🗺️, then start walking)
+(First understand the map 🗺️, then start 
 
 7. 🧪 Very small practice task (no solution)
 Answer in your head or notebook ✏️
