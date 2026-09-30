@@ -1,7 +1,6 @@
 What Django is
 
 
-7. 🧪 Very small practice 
 Answer in your head or notebook ✏️
 
 Is Django a language or a tool?
