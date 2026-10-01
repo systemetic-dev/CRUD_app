@@ -1,7 +1,7 @@
 What Django is
 
 
-Answer in your head or notebook ✏️
+Answer in your head 
 
 Is Django a language or a tool?
 
