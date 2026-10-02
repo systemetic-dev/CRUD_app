@@ -1,7 +1,7 @@
 What Django is
 
 
-Answer in your head
+
 
 
 
