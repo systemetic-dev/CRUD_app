@@ -3,7 +3,7 @@ What Django is
 
 Answer in your head 
 
-Is Django a language or a tool?
+Is Django 
 
 Why is Django useful for backend?
 
