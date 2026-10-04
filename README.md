@@ -1,9 +1,7 @@
 What Django is
 
 
-Answer in your head 
-
-Is Django 
+Answer in your head
 
 Why is Django useful for backend?
 
