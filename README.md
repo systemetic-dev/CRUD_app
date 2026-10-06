@@ -3,7 +3,7 @@ What Django is
 
 Answer in your head
 
-Why is Django useful for 
+Why is Django us
 
 What boring work does Django save us from?
 
