@@ -1,4 +1,4 @@
-What boring work does Django save us from?
+What boring work does Django
 
 8. 🚀 What we will learn next
 👉 Next lesson:
