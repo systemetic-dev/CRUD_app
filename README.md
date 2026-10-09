@@ -1,4 +1,4 @@
-What boring work does Django
+What boring work 
 
 8. 🚀 What we will learn next
 👉 Next lesson:
