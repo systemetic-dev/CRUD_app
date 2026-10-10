@@ -1,4 +1,4 @@
-What boring work 
+What 
 
 8. 🚀 What we will learn next
 👉 Next lesson:
