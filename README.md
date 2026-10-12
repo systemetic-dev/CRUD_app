@@ -1,6 +1,5 @@
 
-8. 🚀 What we will learn next
-👉 Next lesson:
+👉 Next lesson
 “How Django project is created (first time setup)”
 
 We will:
