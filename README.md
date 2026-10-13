@@ -1,7 +1,4 @@
 
-👉 Next lesson
-“How Django project is created (first time setup)”
-
 We will:
 
 Install Django
