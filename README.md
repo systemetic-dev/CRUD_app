@@ -1,6 +1,3 @@
-
-We will:
-
 Install Django
 
 Create a project
