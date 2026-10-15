@@ -1,4 +1,3 @@
-Install Django
 
 Create a project
 
