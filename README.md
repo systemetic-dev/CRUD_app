@@ -1,6 +1,4 @@
 
-Create a project
-
 Open Django’s box 📦
 
 Understand each file slowly
