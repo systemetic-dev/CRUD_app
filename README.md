@@ -1,7 +1,4 @@
-
-
-
-Understand each file slowly
+Understand 
 
 When you’re ready, say:
 
