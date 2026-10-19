@@ -1,4 +1,4 @@
-Understand 
+
 
 When you’re ready, say:
 
