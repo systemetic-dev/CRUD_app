@@ -1,11 +1,4 @@
-
-
-When you’re ready, say:
-
-👉 next
-
-
-Next
+When you’re ready, say:Next
 
 Nice. You’re doing great.
 Now we touch real Django, but very gently 🐣
