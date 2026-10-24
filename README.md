@@ -1,4 +1,4 @@
-When you’re
+
 Nice. You’re doing great.
 Now we touch real Django, but very gently 🐣
 Lesson 3 — one concept only.
