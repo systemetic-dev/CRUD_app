@@ -20,7 +20,7 @@ Settings live
 
 Small apps live
 
-Whole website lives
+
 
 👉 One website = one Django project
 
