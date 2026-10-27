@@ -1,5 +1,5 @@
 
-Nice. You’re doing 
+Nice. 
 Now we touch real Django, but very gently 🐣
 Lesson 3 — one concept only.
 
