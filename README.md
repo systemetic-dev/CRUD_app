@@ -18,7 +18,6 @@ Rules live
 
 Settings live
 
-Small apps live
 
 
 
