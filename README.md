@@ -1,7 +1,7 @@
 
 Nice. 
 Now we touch real gently 🐣
-Lesson 3 — one concept only.
+Lesson 3 — one
 
 🧩 Lesson 3: What is a Django Project?
 
