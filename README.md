@@ -16,7 +16,7 @@ Inside this big box:
 
 Rules live
 
-Settings live
+
 
 
 
