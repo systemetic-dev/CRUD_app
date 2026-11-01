@@ -1,5 +1,4 @@
 
-Nice. 
 Now we touch real gently 🐣
 Lesson 3 — one
 
