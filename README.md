@@ -1,6 +1,6 @@
 
 Now we touch real gently 🐣
-Lesson 3 — one
+Lesson 3
 
 🧩 Lesson 3: What is a Django Project?
 
