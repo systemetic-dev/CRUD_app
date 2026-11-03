@@ -1,5 +1,5 @@
 
-Now we touch real gently 🐣
+Now we touch real 
 Lesson 3
 
 🧩 Lesson 3: What is a Django Project?
