@@ -12,14 +12,6 @@ A Django Project is a big box 📦.
 Inside this big box:
 
 Rules live
-
-
-
-
-
-
-👉 One website = one Django project
-
 2. 🎯 Why do we need it in backend?
 Backend is not one file.
 
