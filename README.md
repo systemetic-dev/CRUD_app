@@ -1,7 +1,4 @@
 
-Now we touch real 
-Lesson 3
-
 🧩 Lesson 3: What is a Django Project?
 
 https://miro.medium.com/max/700/1%2AaICZBUzrgLgc5GoWuiFHcw.jpeg
